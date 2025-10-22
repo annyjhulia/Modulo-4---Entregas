@@ -45,6 +45,7 @@ void loop() {
 <p align="center">
 <img src="assets/grafico.png"></a>
 </p>
+O gráfico foi feito a partir dos dados gerados pelo circuito físico e, por isso, não representa duas retas perfeitamente interceptadas, já que a resistência dos resistores é diferente e interfere nos resultados.
 </div>
 
 ### O código utilizado, com os dados coletados:
