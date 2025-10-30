@@ -22,6 +22,8 @@ A atividade proposta é a montagem de um semáforo físico, utilizando materiais
 
 &ensp;&ensp;[Feedback 2 - Pedro Siqueira](#feedback-2---pedro-siqueira)
 
+&ensp;&ensp;[Feedback 3 - Giorgia Scherer](#feedback-3---giorgia-scherer)
+
 
 
 ## Parte 1: Montagem Física do Semáforo
@@ -166,4 +168,10 @@ Ponto forte: o código tem comentários que ajudam a compreensão.
 
 Parabéns Anny, muito bom!!"
 
-Nota Final: 10.0
+Nota final: 10.0
+
+### Feedback 3 - Giorgia Scherer
+
+"O semáforo da Anny apresentou uma estrutura extremamente organizada, limpa e consistente na parte do código. O LCD foi implementado corretamente e está funcionando perfeitamente. Excelente trabalho, Anny! Foi possível perceber sua dedicação e animação na realização da atividade."
+
+Nota final: 10.0
