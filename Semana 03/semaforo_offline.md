@@ -2,6 +2,28 @@
 
 A atividade proposta é a montagem de um semáforo físico, utilizando materiais como uma protoboard, microcontroladores, LEDs, etc. A partir disso, o código de lógica deve ser montado em C++, controlando seu funcionamento de forma correta.
 
+
+# Sumário
+[Parte 1: Montagem Física do Semáforo](#parte-1-montagem-física-do-semáforo)
+
+&ensp;&ensp;[Tabela de elementos físicos utilizados](#tabela-de-elementos-físicos-utilizados)
+
+&ensp;&ensp;[Esquema On-line no Simulador Wokwi](#esquema-on-line-no-simulador-wokwi)
+
+&ensp;&ensp;[Circuito Físico Montado](#circuito-físico-montado)
+
+&ensp;&ensp;[Link para vídeo demonstrativo da montagem física](#link-para-vídeo-demonstrativo-da-montagem-física-acesse-o-vídeo-demonstrativo)
+
+[Parte 2: Programação e Lógica do Semáforo](#parte-2-programação-e-lógica-do-semáforo)
+
+[Parte 3: Avaliação de Pares](#parte-3-avaliação-de-pares)
+
+&ensp;&ensp;[Feedback 1 - Tobias Viana Araújo](#feedback-1---tobias-viana-araújo)
+
+&ensp;&ensp;[Feedback 2 - Pedro Siqueira](#feedback-2---pedro-siqueira)
+
+
+
 ## Parte 1: Montagem Física do Semáforo
 
 ### Tabela de elementos físicos utilizados
